@@ -18,6 +18,14 @@ T TSTS TT
 T TTTG ST
 TSTSTT TT";
 
+        private const string mapWithPlayerTerrainSackGoldPlayerUnderSack = @"
+ TTGTT TS
+TST  TSTT
+T TTTTSTT
+T TSTS TT
+TPTTTG ST
+TSTSTT TT";
+
         private const string mapWithPlayerTerrainSackGoldMonster = @"
 PTTGTT TST
 TST  TSTTM
